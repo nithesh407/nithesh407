@@ -1,5 +1,5 @@
 # 💫 About Me:
-❄️Iam an aspiring student who thrives in multifunction teams and enjoys crafting.<br>🌈To learn and compete with the professionals, make good relationships with the outside society and explore more about it.<br>❄️Grounded and solution-oriented Computer enthusiast. <br>🌈Strong willingness to exhibit my proficiency in Full stack development.<br>
+❄️Iam an aspiring student who thrives in multifunction teams and enjoys crafting.<br>🌈To learn and compete with the professionals, make good relationships with the outside society and explore more about it.<br>❄️Grounded and solution-oriented Computer enthusiast. <br>🌈Strong willingness to exhibit my proficiency in Backend development.<br>
 
 
 ## 🌐 Socials:
